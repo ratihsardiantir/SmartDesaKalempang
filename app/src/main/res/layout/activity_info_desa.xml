@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📌 Profil Desa Kalempang"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#2E7D32"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Desa Kalempang terletak di Kecamatan Pitu Riawa, Kabupaten Sidenreng Rappang (Sidrap), Provinsi Sulawesi Selatan. Wilayah desa memiliki luas sekitar 12,5 km² dengan jumlah penduduk sekitar 1.800 jiwa yang tersebar dalam 4 dusun dan 8 RT."
+            android:textSize="15sp"
+            android:lineSpacingExtra="4dp"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🏛️ Struktur Pemerintahan Desa"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• Kepala Desa: Bapak Ahmad Syamsuddin\n• Sekretaris Desa: Ibu Siti Halimah\n• Kepala Urusan Keuangan: Bapak Muhammad Jafar\n• Kepala Urusan Umum: Bapak Abdul Rahman\n• Kepala Seksi Kesejahteraan: Ibu Nurhayati"
+            android:textSize="15sp"
+            android:lineSpacingExtra="4dp"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🌾 Potensi Wilayah"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• Pertanian: Padi, Jagung, Kedelai, dan Kelapa\n• Perkebunan: Kakao, Pala, dan Kopi\n• Peternakan: Sapi, Kambing, dan Ayam Rakyat\n• Sumber Air: Terdapat sungai dan mata air yang mendukung kebutuhan pertanian dan warga"
+            android:textSize="15sp"
+            android:lineSpacingExtra="4dp"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📍 Alamat Kantor Desa"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jl. Utama Desa Kalempang, Kecamatan Pitu Riawa, Kabupaten Sidenreng Rappang, Sulawesi Selatan, Kode Pos 91661"
+            android:textSize="15sp"
+            android:lineSpacingExtra="4dp"/>
+
+    </LinearLayout>
+</ScrollView>
